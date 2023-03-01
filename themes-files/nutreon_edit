@@ -39,11 +39,11 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 
   /* BACKGROUND */
   --backgroundColor: #0d0d0d; /* Background color */
-  --backgroundImage: url('https://imgur.com/qhBghXt.png'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundImage: url('https://i.pinimg.com/564x/34/8f/4d/348f4d3d8acff929eaea6085aed70f03.jpg'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
-  --backgroundBlur: 100px; /* Set to 0 to remove blur | Set to 10px for average blur */
+  --backgroundBlur: 12px; /* Set to 0 to remove blur | Set to 10px for average blur */
   --backgroundOpacity: .65; /* 0 is transparent */
 
   /* CODE BLOCKS */
